@@ -2,7 +2,11 @@
 
 *Spectrum Membrane to USB adapter*
 
-his code in its current iteration will allow the cheap and cheerful Arduino Promicro to read a spectrum 48k/128k/plus 2 key presses and return the correct keypresses as a USB keyboard. Please read below to get started. Code more or less works it is being improved all the time.
+Code is licenced under the MIT liscence see [HERE](/LICENSE.txt)
+
+This code in its current iteration will allow the cheap and cheerful Arduino Promicro to read a spectrum 48k/128k/plus 2 key presses and return the correct keypresses as a USB keyboard. Use it conjunction with the Deadflesh usb PCB.
+
+Please read below to get started. Code more or less works it is being improved all the time.
 
 ## How to deploy the code to the arduino
 *todo*
