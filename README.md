@@ -23,6 +23,8 @@ his code in its current iteration will allow the cheap and cheerful Arduino Prom
 ### Buy a PCB
 from me Nadoom aka *backus-cheese-emporium* on ebay search for deadflesh usb
 
+Here is the link: https://www.ebay.co.uk/itm/375260941327
+
 ![Deadflesh USB](/img/speccy-membrane-usb.png)
 
 
@@ -60,4 +62,6 @@ You must pull down all lines to ground ( Pin 3,4,23 ) with 10K resistor
 
 
 
-If you want to send me some appreciation : https://www.buymeacoffee.com/nadoom
+If you want to send me some appreciation : https://www.buymeacoffee.com/nadoom 
+
+My email is nadeem.backus@gmail.com
