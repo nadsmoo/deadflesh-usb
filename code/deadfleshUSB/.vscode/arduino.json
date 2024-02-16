@@ -1,5 +1,5 @@
 {
-    "sketch": "speccherryUSB.ino",
+    "sketch": "deadfleshUSB.ino",
     "port": "COM8",
     "board": "arduino:avr:micro"
 }
