@@ -8,6 +8,16 @@ This code in its current iteration will allow the cheap and cheerful Arduino Pro
 
 Please read below to get started. Code more or less works it is being improved all the time.
 
+
+### Buy a PCB
+from me Nadoom aka *backus-cheese-emporium* on ebay search for deadflesh usb
+
+Here is the link: https://www.ebay.co.uk/itm/375260941327
+
+![Deadflesh USB](/img/speccy-membrane-usb.png)
+
+
+
 ## How to deploy the code to the arduino
 *todo*
 ### Install The arduino IDE 
@@ -23,14 +33,6 @@ Please read below to get started. Code more or less works it is being improved a
 
 
 ## How to build the board
-
-### Buy a PCB
-from me Nadoom aka *backus-cheese-emporium* on ebay search for deadflesh usb
-
-Here is the link: https://www.ebay.co.uk/itm/375260941327
-
-![Deadflesh USB](/img/speccy-membrane-usb.png)
-
 
 ### Get the parts
 
