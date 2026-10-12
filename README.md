@@ -10,9 +10,9 @@ Please read below to get started. Code more or less works it is being improved a
 
 
 ### Buy a PCB
-from me Nadoom aka *backus-cheese-emporium* on ebay search for deadflesh usb
+from me Nadoom aka *nadoom* on ebay search for deadflesh usb
 
-Here is the link: https://www.ebay.co.uk/itm/375260941327
+Here is the link: [https://www.ebay.co.uk/itm/375260941327](https://www.ebay.co.uk/itm/376064470778)
 
 ![Deadflesh USB](/img/speccy-membrane-usb.png)
 
